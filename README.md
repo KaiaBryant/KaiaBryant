@@ -9,4 +9,6 @@ I grew up in Washington, DC where I obtained my Bachelor's degree in Business Ad
 - 📫 Reach me at: kaia.bryant@yahoo.com | linkedin.com/in/kaia-bryant
 - ⚡ Fun fact: I'm really great at tounge twisters!
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width="40"/>](https://www.linkedin.com/in/kaia-bryant/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width="10"/>](https://www.linkedin.com/in/kaia-bryant/)
+
+
