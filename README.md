@@ -8,7 +8,7 @@ I grew up in Washington, DC where I obtained my Bachelor's degree in Business Ad
 - 💿 I founded Hum Haus Records, a record shop in Charlotte, NC where I created my first e-commerce website
 - 📫 Reach me at: kaia.bryant@yahoo.com 
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width="15"/>](https://www.linkedin.com/in/kaia-bryant/)   <- Click here to connect with me on LinkedIn 
-- ⚡ Fun fact: I'm really great at tounge twisters!
+- ⚡ Fun fact: I had a pet beta fish that lived for 3 years
 
 
 ### 🛠️ Tech Stack
